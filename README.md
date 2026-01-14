@@ -47,7 +47,7 @@ background-color: #04AA6D;
 </nav>
 
 <main>
-<p>welcome to our custom leather shop. we have a detailed discripton of our products acrost upr web pages.</p>
+<p>welcome to our custom leather shop. we have a detailed discripton of our products in our web pages.</p>
 </main>
 
 </body>
