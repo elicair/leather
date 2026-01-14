@@ -40,9 +40,9 @@ background-color: #04AA6D;
 <li><a class="active" href="index.html">Home</a></li>
 <li><a href="https://elicair.github.io/kys/">Page 1.html</a></li>
 <li><a href="https://elicair.github.io/pg2/">Page 2.html</a></li>
-<li><a href="pg3.md">Page 3.html</a></li>
-<li><a href="pg4.md">Page 4.html</a></li>
-<li><a href="pg5.md">Page 5.html</a></li>
+<li><a href="https://elicair.github.io/pg3/">Page 3.html</a></li>
+<li><a href="https://elicair.github.io/pg4/">Page 4.html</a></li>
+<li><a href="https://elicair.github.io/pg5/">Page 5.html</a></li>
 </ul>
 </nav>
 
