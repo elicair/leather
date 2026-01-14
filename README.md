@@ -38,11 +38,11 @@ background-color: #04AA6D;
 <nav>
 <ul>
 <li><a class="active" href="index.html">Home</a></li>
-<li><a href="https://elicair.github.io/kys/">prices for raw material</a></li>
-<li><a href="https://elicair.github.io/pg2/">our products</a></li>
-<li><a href="https://elicair.github.io/pg3/">in depth video</a></li>
-<li><a href="https://elicair.github.io/pg4/">about us</a></li>
-<li><a href="https://elicair.github.io/pg5/">my competition</a></li>
+<li><a href="https://elicair.github.io/kys/">Prices for raw material</a></li>
+<li><a href="https://elicair.github.io/pg2/">Our products</a></li>
+<li><a href="https://elicair.github.io/pg3/">In depth video</a></li>
+<li><a href="https://elicair.github.io/pg4/">About us</a></li>
+<li><a href="https://elicair.github.io/pg5/">My competition</a></li>
 </ul>
 </nav>
 
