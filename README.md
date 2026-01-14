@@ -39,7 +39,7 @@ background-color: #04AA6D;
 <ul>
 <li><a class="active" href="index.html">Home</a></li>
 <li><a href="https://elicair.github.io/kys/">Page 1.html</a></li>
-<li><a href="pg2.md">Page 2.html</a></li>
+<li><a href="https://elicair.github.io/pg2/">Page 2.html</a></li>
 <li><a href="pg3.md">Page 3.html</a></li>
 <li><a href="pg4.md">Page 4.html</a></li>
 <li><a href="pg5.md">Page 5.html</a></li>
@@ -47,7 +47,7 @@ background-color: #04AA6D;
 </nav>
 
 <main>
-<p>This is the main content for the index page. Use the navigation above to visit the other pages.</p>
+<p>welcome to our custom leather shop. we have a detailed discripton of our products acrost upr web pages.</p>
 </main>
 
 <footer>
