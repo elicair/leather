@@ -60,7 +60,7 @@ background-color: #111;
             font-family: sans-serif;
             text-shadow: 2px 2px 4px #000000; 
         }</style>
-<p>welcome to our custom leather shop. we have a detailed discripton of our products in our web pages.</p>
+<p>welcome to our custom leather shop. we have a detailed description of our products in our web pages.</p>
 </main>
 
 </body>
